@@ -19,7 +19,7 @@ read -p 'input: ' inputvar
 
 echo "----------------------------------------"
 
-git commit -m "$inputvar"   
+git commit -m "This commit will $inputvar"   
 
 echo "----------------------------------------"
 
